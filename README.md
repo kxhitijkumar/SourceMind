@@ -28,6 +28,13 @@ SourceMind is a high-performance desktop code editor built for developers who pr
 
 ---
 
+## System Architecture
+
+<img width="1849" height="960" alt="image" src="https://github.com/user-attachments/assets/5a00117e-0917-4bf1-a54a-1e965a47bb91" />
+
+
+---
+
 ## Getting Started
 
 ### 1. Prerequisites
